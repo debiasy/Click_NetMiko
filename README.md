@@ -97,11 +97,5 @@ python3 net_config.py --ip 192.168.57.11 --cmd "show ip interface brief"
 ### Source
 The check_ospf command is from IPvZero. See the script on [his github](https://github.com/IPvZero/IPvZero/tree/master/Netmiko-video).
 
-## About Me
-
-* Never worked in the IT industry, but always fastinatied by the evolving new technologies.
-* Now in my final year of my honours degree in Cyber Security and Networks
-* Interests in NetDevOps, Automation, Programmability, Security.
-
 Follow me on [Twitter](https://twitter.com/Debi_ASY) | [YouTube](https://www.youtube.com/channel/UC0xrmfrXnxrw8ClTsa32LcQ) | [LinkedIn](https://www.linkedin.com/in/dasy225/)
 
